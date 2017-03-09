@@ -1,6 +1,6 @@
 # MultiagentSystem
 This is a project about multi-agent systems
 
-* Проект по курсу мультиагентные технологии
-* Каждый агент содержит некоторое число
-* В проекте происходит децентрализованное общение агентов, с целью поиска среднего числа между агентами
+* Project for the course multi-agent technology
+* Each agent contains a number
+* The project is a decentralized communication agents, with the purpose of finding the average number between agents
